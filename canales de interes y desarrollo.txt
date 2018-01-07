@@ -1,0 +1,361 @@
+
+aqui quedamos: CineDigitalTV
+
+	Flujo de trabajo de Davinci Resolve a Premiere con archivos Raw
+	https://www.youtube.com/watch?v=x4xCqTsrAPc&index=97&list=UUHoAWFXBQdIuypcEEoE-3yg
+_________________________________________________________________________________________________
+
+
+
+Grabar vídeo con cámaras DSLR. Por Albert Pérez.
+	https://www.youtube.com/watch?v=DkAkX85VXTM
+
+
+Camaras:
+
+	http://www.arri.com/
+		ARRI Alexa 65 (6.5 K)
+
+	http://www.red.com/
+
+	http://www.kinefinity.tv/cameras/kineraw-s35/ (KINERAW KINEMAX 6k)
+
+	http://www.sony.es/pro/product/broadcast-products-camcorders-digital-motion-picture-camera/f65/overview/
+
+	https://www.aja.com/ (camaras 4K profesionales)
+		https://www.youtube.com/watch?v=jq2t7BJJ3w0&index=73&list=UUHoAWFXBQdIuypcEEoE-3yg
+
+	https://www.blackmagicdesign.com/es/products/blackmagicstudiocamera
+	Blackmagic Studio
+
+		Blackmagic Design Studio Camera 4K (BH)  http://www.bhphotovideo.com/c/product/1044789-REG/blackmagic_design_cinstudmft_uhd_studio_camera_4k.html
+
+
+	Sony A7S (camara DSRL 4K, con opción para monturas para lentes de cine)
+		https://www.youtube.com/watch?v=wsL15vrGGBg&index=76&list=UUHoAWFXBQdIuypcEEoE-3yg
+
+	INSATEC http://www.insatecsl.com/camaras_vel.htm  (camaras de alta velocidad)
+		http://www.camarasaltavelocidad.com/camaras_alta_velocidad.htm
+		http://www.camarasaltavelocidad.com/promon_12M.html
+
+
+	phantom phantom   (camaras de alta velocidad) 
+		http://www.xataka.com/hd/phantom-flex-una-camara-que-captura-video-fullhd-a-2800-imagenes-por-segundo
+		http://www.xataka.com/videocamaras/phantom-v1610-grabando-a-un-millon-de-imagenes-por-segundo
+		http://www.alfavisionsrl.com.ar/espanol/alquiler/camaras/info/phantom.htm
+
+	
+	http://www.alfavisionsrl.com.ar/espanol/alquiler/camaras/info/phantom.htm
+
+
+	Panasonic Lumix GH4 (DSRL 4 k)
+
+_________________________________________________________________________
+
+CAMARAS ESPECIALES
+
+
+	Nikon 1 AW1 (Nikon Coolpix con lentes intercambiables y sumergible)
+
+	Nikon 1 V3 (Nikon Coolpix con lentes intercambiables y sumergible)
+
+	Nikon 1 j4 (Nikon Coolpix pro)
+
+
+	JVC GY-HM790 ProHD Optical Studio Kit 3 (BH)
+		http://www.bhphotovideo.com/c/product/742120-REG/JVC_GYHM790LFS17_GY_HM790_ProHD_Optical_Studio.html
+
+	VC GY-HM790 ProHD Optical Studio Kit 2 (BH)
+		http://www.bhphotovideo.com/c/product/742119-REG/JVC_GYHM790LFS14_GY_HM790_ProHD_Optical_Studio.html
+
+
+	http://www.for-a.com/products/ftone/ftone.html
+
+	For.A FT-ONE Full 4K Variable Frame Rate Camera (BH)
+		http://www.bhphotovideo.com/c/product/882225-REG/for_a_ft_one_full_4k_variable.html
+
+	For.A FT-ONE-OPT Full 4K Variable Frame Rate Camera (BH)
+		http://www.bhphotovideo.com/c/product/1063304-REG/for_a_ft_one_opt_full_4k_variable.html
+
+	For.A EM-120H S/E Ultra Sensitive EM-CCD HD Camera (bh)
+		http://www.bhphotovideo.com/c/product/846468-REG/For_A_EM_120H_S_E_LOW_LIGHT_HIGH_SENSITIVITY.html
+		
+	For.A FZ-B1 Ultra High Sensitivity HD Digital Color Camera (BH)
+		http://www.bhphotovideo.com/c/product/979946-REG/for_a_fz_b1_ultra_high_sensitivity.html
+
+	For.A VFC-7000 HD Variable Frame Rate Camera (BH)
+		http://www.bhphotovideo.com/c/product/746352-REG/For_A_VFC_7000_VFC_7000_HD_Variable_Frame.html
+
+	Panasonic AK-HC1800G Multi-Purpose HD Box Camera (BH)
+		http://www.bhphotovideo.com/c/product/738457-REG/Panasonic_AK_HC1800G_AK_HC1800G_Multi_Purpose_HD_Box.html
+
+
+
+
+	Sony DXC-390 1/3-Inch 3-CCD Color Video Camera with 800 Lines, for Industrial and Microscopy Applications (BH)
+		http://www.bhphotovideo.com/c/product/193593-REG/Sony_DXC390_DXC_390_1_3_Inch_3_CCD_Color.html
+
+
+
+
+
+
+
+
+http://forum.cgpersia.com/f20/pixar-renderman-studio-18-maya-updated-67847/
+RenderMan Studio 4.0 (Maya 2013) 
+	http://depositfiles.org/folders/U7AAKA4O0
+
+
+
+
+Lens:
+
+	
+
+	http://www.cookeoptics.com/
+
+	Marcas:
+
+		Cooke
+		
+		Leica
+
+		Carl Zeiss
+
+		Schneider Cine
+
+		Canon
+
+		Bower
+
+		Rokinon
+
+
+	Filter:
+
+		Light Craft Workshop 77mm variable
+		http://www.bhphotovideo.com/c/buy/Shop-by-Brand-Light-Craft-Workshop/ci/4/phd/4101352794/N/4294255798
+
+		chroma flex: http://www.reflecmedia.com/
+	
+	
+
+GreenScreen
+
+	http://ledchromakey.com/	
+
+
+
+Audio:
+
+	Grabador Audio Zoom H4n 2+2 canales
+
+	Tascam DR-100
+
+	microfonos shotgun marcas
+
+	Riggy Assist de Juiced Link
+	https://www.youtube.com/watch?v=KTJDKYA8jN8&list=PLzli6UeKO6YgylwVDpllHzgSA6RUBq8cT&index=12
+	http://www.bhphotovideo.com/c/search?Ntt=Riggy+Assist&N=0&InitialSearch=yes&sts=ma&Top+Nav-Search=
+
+	
+
+Drones:
+
+	http://www.dji.com/	
+
+
+
+Accesorios:
+
+	SecondShooter de Kessler
+	https://www.savetubevideo.com/?v=HgRDz8b_4zU
+	http://www.kesslercrane.com/second-shooter-s/235.htm
+
+	zacuto
+
+	http://www.hdvideoshop.com/
+
+	Libec ALLEX 2 Section Tripod Kit with Mid Level Spreader
+
+	ePhotoInc DSLR Mini Jib Video Crane Camera DV Jibs Arm 4FT MJ906A
+
+	Neewer® 32"/80cm DSLR Camera Track Dolly Slider Video Stabilization Rail System
+
+	Neewer® Aluminum Battery Powered Motorized Push Cart/Trailer for Table Top Video Camera Skater Dollies
+
+	fancierstudio Camera Track Slider Camera Silder Video Slider 48" With Ball-Bearing Slide Mechanism
+
+	Movo Photo CTS500 Panaramic 180-degree Circular Sliding Track with Roller Bearing Sliding Platform
+
+	KAMERAR SD-1 60CM DSLR DV Camera Track Dolly Slider Video Stabilization System
+
+	Eggsnow 4-Way Macro Shot Focusing Rail Slider /Close-up Shooting for All DSLR Cameras
+
+	DVC 17612 PROAIM Motorized Pan/Tilt Head with Joystick Control for Video Production 
+
+	PROAIMTM 9FT Camera Jib with Jr. Pan-Tilt Head, Stand and 12V Power Pack
+
+	Libec Jb30heavydutykit
+
+	Vidpro MR-400 Motorized Focus & Zoom Rig (bh)
+
+	Revo SR-1500 Dual Grip Shoulder Support Rig (bh)
+
+	CPM Camera Rigs DSLR Bulldog Shoulder Mount Kit (bh)
+		https://www.youtube.com/watch?v=dqrVzmtbOwE
+
+
+	Dot Line GearBox 2 Accessory Cage (bh)
+
+	CPM Camera Rigs DSLR Cubed Cage 1.0 (bh)
+
+	ikan Tilta DSLR Shoulder Rig, Baseplate w/Shoulder Pad, 4x4 Carbon Fiber Matte Box & FF Unit (bh)
+
+	Zacuto Marauder Foldable Camera Rig (bh)
+
+	Manfrotto Virtual Reality & Pan Pro Head (Bh), head for macro photography
+
+	Manfrotto 303SPH QTVR Spherical Panoramic Head Kit - Supports 8.8 lb (4kg) (Bh), head for macro photography
+
+	Arca-Swiss C1 Cube Geared Head with MonoballFix Quick Release (Bh), head for macro photography
+
+	Syrp Genie (pnaeo/timelaps/dolly motorizado)
+
+	http://www.tilta.tv/ (Rigs)
+
+	http://www.kesslercrane.com/ (Rigs)
+
+	http://www.shapewlb.com/ (Rigs)
+
+	Nuevo gimbal para cámaras de cualquier tamaño de DJI, (Rig Motorizado)
+
+	Nuevo sistema de motion control de Kessler Unidrive
+		https://www.youtube.com/watch?v=_sBzbPVHLWs&index=44&list=UUHoAWFXBQdIuypcEEoE-3yg
+
+	http://www.rigwheels.com/ (todo tipo de Rig Profesionales Modulares)
+
+	http://ikancorp.com/ (monitores para video) (autofocos motorizados y a control remodo para lentes de cine)
+
+	http://www.zacuto.com/ (Rigs/viewer)
+
+	http://www.atomos.com/ninja-star/ (grabadores epseciales)
+
+	http://andra.com/	(Autocofus selectivos por planos)
+
+	http://pmgmultirotors.com/ (Gimbal motoriazados profesionales) (octo drones profesionales)
+	http://pmgmultirotors.com/octo.php (octos drones)
+		https://www.youtube.com/watch?v=ruvjD9tIuCQ&list=UUfV1iJSTSonZdW_EteVgERg
+
+	http://www.edelkrone.com/ (slider)
+
+	http://www.smallhd.com/ (monitores especiales con capacidad para LUTs)
+
+	SHAPE (Rig gimbal motorizado profesional)
+	http://www.shapewlb.com/en/product/products/shape-support/isee-gimbal/isee-ii-dslr-gimbal-shoulder-mount_275.aspx?id_page_parent=369
+	https://www.youtube.com/watch?v=DGLDftJ4i94&list=UUHoAWFXBQdIuypcEEoE-3yg&index=67
+	https://www.youtube.com/watch?v=8P4t1il60O8&list=UUHoAWFXBQdIuypcEEoE-3yg&index=71 (gimbal motorizado para GoPro)
+
+	http://www.matrox.com/video/en/products/mojito_max/ (capturadoras de video profesionales)
+
+
+	http://www.fluotec.com/ Fluo-tec (todo tipo de luces fabrica mexicana)
+	Dracast Fresnel 2000 Daylight LED Ligh (bh)
+	Arri L7-C 7" LED Fresnel (bh)
+		https://www.youtube.com/watch?v=l_n4reHCADs&index=81&list=UUHoAWFXBQdIuypcEEoE-3yg
+
+	http://www.tilta.tv/ (rigs buenos)
+
+	http://defywithus.com/  (Defy G5), Gimbal
+		https://www.youtube.com/watch?v=cBSX0E1AXp0&index=96&list=UUHoAWFXBQdIuypcEEoE-3yg
+
+
+	Gruas en BH http://www.bhphotovideo.com/c/buy/Gr%C3%BAas-y-Brazos-de-Jirafa/ci/4012/N/3907816543
+
+	Slider y accesorios BH  http://www.bhphotovideo.com/c/buy/Cine-Dollies-y-Sistemas-de-Trayectoria/ci/3991/N/3907816548
+
+	Dolly y equipos especiales BH http://www.bhphotovideo.com/c/buy/Spreader-Dollies/ci/3991/pn/2/N/3907816548
+		
+
+	Soportes y Aparejos (Rig BH) http://www.bhphotovideo.com/c/buy/Soportes-y-Aparejos/ci/18341/N/3907816581
+
+	Soluciones para Matte Box BH http://www.bhphotovideo.com/c/buy/Soluciones-para-Matte-Box/ci/12011/N/3907816599
+
+	Estabilizadores y gimbal BH  http://www.bhphotovideo.com/c/buy/Estabilizadores/ci/3990/N/3907816576
+
+	Pedestales y Accesorios (tripodes móviles para video BH)  http://www.bhphotovideo.com/c/buy/pedestals-accessories/ci/21524/pn/2/N/3907816569
+
+
+
+
+Lights
+
+	http://lowel.tiffen.com/primeLED/
+		http://www.bhphotovideo.com/c/buy/Prime-LED-Lights/ci/18676/N/4027947438 (bh)
+
+	switronix ( Switronix TorchLED Bolt 220W On-Camera Light )
+		http://www.switronix.com/products?page=shop.product_details&flypage=flypage.tpl&product_id=153&category_id=46
+		http://www.bhphotovideo.com/c/buy/Shop-by-Brand-Switronix/ci/4/phd/4291174959/N/4294255798
+
+	Alógeno
+
+	Tugsteno
+
+	Cuarzo
+
+	Fluorecentes, temperatura de día y de tugsteno
+
+	HMI Lights
+
+	LED
+
+	Plasma
+
+
+	Organismos: CIE: (Comisión Internacional de Iluminación), legisla el: CRI, (Color Rendering index) 
+
+
+
+
+Drones:
+
+	Aerials drone shots behind the scene
+
+		https://www.youtube.com/watch?v=kRs9-k02K-s
+
+
+	Drone Octocopter with Red Epic 100fps
+
+		https://www.youtube.com/watch?v=NlSMGwdWE7Q
+
+
+	The Best Octocopter & Hexacopter Showreel
+
+		https://www.youtube.com/watch?v=9SDuQFp15ig
+
+
+	3D Red Epic Octocopter & Dual Brushless Gimbal
+
+		https://www.youtube.com/watch?v=Z9Ui_0cMIOQ
+
+
+
+Performance:
+
+	Broncolor y Hasselblack:
+
+		Karl Taylor's Hi-End Product Shoot - Made Easy!  /  https://www.youtube.com/watch?v=IIm-SZHKOW4
+
+		Karl Taylor - Behind The Scenes Making of "Underwater" Music  /  https://www.youtube.com/watch?v=3wnKICJsHu4
+
+		Shooting Clinique-styled product photos  /  https://www.youtube.com/watch?v=rFkvwCUiSIw
+
+		Splash and Liquid hight-speed photography tutorail: what strobe is good to freeze action?  /  https://www.youtube.com/watch?v=lRn_szlUcww
+
+		Photograph a Rolex watch, product photography lighting techniques /  https://www.youtube.com/watch?v=JP3ykBzk_RU
+
+
+
+
+(aqui quedamos: https://www.youtube.com/watch?v=Q0HxYYhjSYM)
